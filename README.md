@@ -1,2 +1,2 @@
-# Text Analytics
-# Sentiment analysis was performed on Kaggle notebook for better GPU performance
+Text Analytics
+Sentiment analysis was performed on Kaggle notebook for better GPU performance
